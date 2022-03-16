@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zehantan6970
+- 👋 Hi, I’m Zehan Tan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning deeplearning
 - 💞️ I’m looking to collaborate on RL and CV&point clouds
